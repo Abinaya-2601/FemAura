@@ -46,7 +46,6 @@ Our idea is to build a website which serves as a complete guide to a women's men
 - Download & install [Xampp](https://www.apachefriends.org/download.html)
 - Download the Zip or clone the repository
  bash
-git clone https://github.com/sainik-khaddar/LadyHUB.git
 
 - Go to the directory where Xampp is installed. For eg. C:\xampp\htdocs
 - Copy the project folder and paste it in the address mentioned above.
@@ -61,21 +60,3 @@ git clone https://github.com/sainik-khaddar/LadyHUB.git
 <img src="./Screenshots/sc4.jpg" width="300">
 <img src="./Screenshots/sc5.jpg" width="300">
 <img src="./Screenshots/sc6.jpg" width="300">
-
-## pequeño video
-
- I provide a youtube vid. link to explain ,that how it works.Thankyou.
-
- https://youtu.be/lp4MPAHNkzA
-
-
-
-
-## Our Team
-- Sainik Khaddar
-- Uttam Kanti Dutta
-- Disha Das
-- Soham Chaudhuri
-
-
-### More power to women!
